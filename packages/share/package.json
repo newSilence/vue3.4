@@ -1,0 +1,14 @@
+{
+  "name": "@vue/share",
+  "version": "1.0.0",
+  "module": "dist/share.esm-bundler.js",
+  "main": "dist/share.cjs.js",
+  "unpkg": "dist/share.global.js",
+  "buildOptions": {
+    "name": "VueReactivity",
+    "formats": [
+      "cjs",
+      "esm-bundler"
+    ]
+  }
+}
